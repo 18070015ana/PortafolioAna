@@ -1,0 +1,62 @@
+html,body{
+    width:100%;
+    height:100%;
+    padding:0;
+    margin:0;
+   
+
+}
+
+header{
+    width:100% ;
+    height:12% ;
+   
+    
+    
+}
+.bio{
+    width: 100%;
+    background-color: #a54aeb !important;
+}
+header ul{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+   
+    background-color: #a54aeb;
+
+}
+
+.centrar{
+    justify-content:center;
+    align-items: center;
+   
+}
+header ul li{
+    text-decoration: underline;
+    list-style:none;
+  
+    margin-left: 20px;
+    padding: 10px 15px;
+    
+    margin-top:10px;
+}
+.ana{
+width: 60%;
+border-radius: 100%;
+
+
+
+
+}
+#seccion{
+    width: 100%;
+    height: auto;
+    padding:20px;
+   
+
+}
+
+.box2{
+    top: 40;
+}
